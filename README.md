@@ -3,3 +3,6 @@ Electrical Engineer transitioning into IT, experienced in troubleshooting hardwa
 
 ## Current projects
 I'm currently using my homelab to learn Active Directory using Windows VMs in Hyper-V and using Proxmox Virtual Environment as a hypervisor for Linux VMs, Linux containers, and Docker containers.
+
+## Plans for the future
+I will be using this space to post python scripts, config files, and some other things.
