@@ -1,4 +1,4 @@
-# RoseDaemon.github.io
+# Vivian Rose
 Electrical Engineer transitioning into IT, experienced in troubleshooting hardware, software, and networking. Skilled in Python, C/C++, Linux/Windows systems, and customer-focused technical support. Pursuing CompTIA A+ certification.
 
 ## Current projects
